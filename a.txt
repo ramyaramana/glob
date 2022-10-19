@@ -1,4 +1,5 @@
  i am trying for git staash
  i have changed
  i am in b1 branch
- i am checking for srikant
+
+i am checking for mergeri am checking for srikant
