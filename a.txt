@@ -1,1 +1,8 @@
-i am in b1 branch 
+ i am trying for git staash
+ i have changed
+ i am in b1 branch
+<<<<<<< HEAD
+
+=======
+ i am checking for srikant
+>>>>>>> 60f7edda9733bad34f1c10cd67ea0072a762bddd
